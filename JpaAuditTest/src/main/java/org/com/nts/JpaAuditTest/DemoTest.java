@@ -6,6 +6,7 @@ public class DemoTest {
 		// TODO Auto-generated method stub
 		System.out.println("my first jenkins job");
 		System.out.println("initial commit");
+		System.out.println("supplies");
 
 	}
 
